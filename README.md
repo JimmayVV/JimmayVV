@@ -1,6 +1,6 @@
 # Hi, I'm Jimmy 👋
 
-## Full-Stack Developer | Racing Sim Enthusiast | Building AI Tools for Real Life
+## Full-Stack Developer | Sim Racing Enthusiast | Building AI Tools for Real Life
 
 I'm a developer at [iRacing](https://www.iracing.com) where I get to combine my passion for motorsports with my love for building great software. After dropping out of college, teaching myself to code, and earning my Associates in IT, I found my dream job where I was a customer long before I became an employee.
 
