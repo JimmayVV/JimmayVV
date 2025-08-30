@@ -31,7 +31,7 @@ Started my tech career in 2005 after realizing sports management wasn't my path.
 
 ### 📫 Let's Connect
 
-- 🌐 [JimmyVanVeen.com](https://jimmyvanveen.com)
+- 🌐 [JimmyVanVeen.com](https://www.jimmyvanveen.com)
 - 💼 [LinkedIn](https://linkedin.com/in/jimmyvanveen)
 
 ### 🔧 Recent Projects
